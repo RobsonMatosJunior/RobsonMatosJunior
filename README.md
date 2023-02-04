@@ -24,3 +24,11 @@
   <a href="https://www.linkedin.com/in/robson-matos-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/CYWNGRCs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"target="_blank"><a/>
 </div>
+
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RobsonMatosJunior&show_icons=true&theme=synthwave&title_color=0ee174&text_color=cfecec&locale=pt-br&layout=compact" alt="RobsonMatosJunior" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonMatosJunior&show_icons=true&theme=synthwave&title_color=23e778&text_color=d2ecf4&locale=pt-br" alt="RobsonMatosJunior" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RobsonMatosJunior&theme=dark" alt="RobsonMatosJunior" /></p>
+</div>
