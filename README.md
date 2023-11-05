@@ -1,6 +1,6 @@
 ### Ola eu sou o Robson Junior 👋
 
-Desenvolvendo em JavaScrip, HTML and CSS.
+Desenvolvendo em JavaScrip e C#.
 
 <div>
   <a href="https://github.com/RobCoffe">
