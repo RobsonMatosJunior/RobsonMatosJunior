@@ -26,9 +26,4 @@ Desenvolvendo em JavaScrip, HTML and CSS.
 </div>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RobsonMatosJunior&show_icons=true&theme=synthwave&title_color=0ee174&text_color=cfecec&locale=pt-br&layout=compact" alt="RobsonMatosJunior" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonMatosJunior&show_icons=true&theme=synthwave&title_color=23e778&text_color=d2ecf4&locale=pt-br" alt="RobsonMatosJunior" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RobsonMatosJunior&theme=dark" alt="RobsonMatosJunior" /></p>
-</div>
