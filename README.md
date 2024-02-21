@@ -1,4 +1,3 @@
-### Ola eu sou o Robson Junior 👋
 
 <div>
   <a href="https://github.com/RobCoffe">
